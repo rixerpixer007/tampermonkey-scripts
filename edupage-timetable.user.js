@@ -6,6 +6,8 @@
 // @match        https://torg.edupage.org/timetable/*
 // @run-at       document-idle
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/rixerpixer007/tampermonkey-scripts/refs/heads/main/edupage-timetable.user.js
+// @downloadURL  https://raw.githubusercontent.com/rixerpixer007/tampermonkey-scripts/refs/heads/main/edupage-timetable.user.js
 // ==/UserScript==
 
 (function () {
